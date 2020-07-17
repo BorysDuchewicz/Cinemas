@@ -1,0 +1,17 @@
+Most popular location: Zoliborz
+
+Most popular movies on location: 
+Bemowo: don't have
+Zoliborz: Jhony Wick
+
+Average ticket price on location: 
+Bemowo: 0
+Zoliborz: 14.995
+
+Cinema profit on location: 
+Bemowo: 0
+Zoliborz: 14.995
+
+Most popular ticket type on location: 
+Bemowo: don't have
+Zoliborz: student

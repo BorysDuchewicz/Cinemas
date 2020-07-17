@@ -1,0 +1,405 @@
+﻿  admin_service.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  cinema_validator.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\admin_service.cpp(61,55): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  cinemas_repository.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  db_connection.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  favorite_repository.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  menu_service.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  movies_repository.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  movies_validator.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  panel_control.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  programme_repository.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  programme_validator.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  purchase_repository.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  registration_validator.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  reservations_repository.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  rooms_validator.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  screening_rooms_repository.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  source.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  tickets_repository.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  user_data_service.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  user_service.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  users_repository.cpp
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\user_service.cpp(285,9): warning C4101: 'final_price': unreferenced local variable
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(66,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(71,1): warning C4267:         ]
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         with
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         [
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:             _Ty=int
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(158,1): warning C4267:         ]
+  Generating Code...
+G:\KMProgramowanie\CPP\Git\Cinema\Cinema\Cryptor.h(162,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Cinema.vcxproj -> G:\KMProgramowanie\CPP\Git\Cinema\x64\Debug\Cinema.exe
